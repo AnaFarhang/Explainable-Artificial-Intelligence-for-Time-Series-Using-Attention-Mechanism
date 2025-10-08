@@ -15,7 +15,7 @@ We apply the proposed framework to three real wind turbine use cases:<br>
 •	**You need to run only the main.py file**.<br>
 •	After running main.py file, we will obtain the classification results as csv files. Furthermore, attention data will be stored in the explanation folder. **After the main.py file has been running, you can run the attention_explanation.py to find the important features that helped the transformer to classify your samples**. (We have already stored an example of attention data in the explanation folder that you can use.)<br>
 * Each folder (NREL, DFIG-Test Rig, and Fraunhofer LBF) shows the code for each use. Because the data were stored differently for each use case, we needed to read the data files differently. However, the implemented method is the same for all the use cases.<br>
-* If you use this code in your work, please cite our paper “Explainable Artificial Intelligence for Time Series Using Attention Mechanism: Application to Wind Turbine Fault Detection”. 🤗
+* If you use this code in your work, please cite our paper “Explainable Artificial Intelligence for Time Series Using Attention Mechanism: Application to Wind Turbine Fault Detection”, IEEE Access. 🤗
 
 ### Parameter setting (optional):
 •	There are some general parameters: Learning rate, epochs, n_heads, n_layes, window size, optimizer, batch-size, …<br>
