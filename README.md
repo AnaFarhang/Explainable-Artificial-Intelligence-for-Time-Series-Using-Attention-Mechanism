@@ -7,7 +7,7 @@ In this repository, we provide a framework for time series classification explan
 3.	For the explanation, we have applied Linear Discriminant Analysis on attention data extracted from transformers. Here, we can find the important frequencies that distinguish between healthy and faulty conditions.
 We apply the proposed framework to three real wind turbine use cases:<br>
 •	NREL: Link to the data (https://data.openei.org/submissions/738) [1]<br>
-•	DFIG-Test Rig: Link to the data (https://collections.durham.ac.uk/files/r28049g5063) [2]<br>
+•	DFIG-Test Rig: Link to the data (https://doi.org/10.15128/r28049g5063.) [2]<br>
 •	Fraunhofer LBF: (https://zenodo.org/records/11820598) [3]<br>
 
 ## How to run the code?
