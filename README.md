@@ -1,5 +1,5 @@
 
-## Pipeline Description:
+## Pipeline description:
 In this repository, we provide a framework for time series classification explanation. 
 ![Proposed Framework](framework.png)
 1.	We have applied wavelet feature extraction on wind turbine data to find the frequency-time related features. (This step can be skipped or other feature extraction methods can be used.)
